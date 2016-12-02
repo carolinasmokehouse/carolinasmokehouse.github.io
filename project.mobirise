@@ -1,0 +1,2390 @@
+{
+  "settings": {
+    "currentPage": "contactos.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.8.5",
+    "uniqCompNum": 52,
+    "versionPublish": "3.9.2",
+    "publishType": "github",
+    "publishPath": "file:///C:/Users/Valladares/Desktop/hector%20padre%20no%20borrar/carolinasmokehouse/pagina%20de%20carolina%20smokehouse"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imagen1-153x128-75.png",
+              "height": 128,
+              "alt": "Carolina Smokehouse",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactos.html\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imagen4-2000x1955-23.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "",
+          "text": "<br><br><b style=\"font-size: 1.5rem; line-height: 1.5;\"><br></b><br><b style=\"font-size: 1.5rem; line-height: 1.5;\"><br></b><br><b style=\"font-size: 1.5rem; line-height: 1.5;\"><br></b><br><b style=\"font-size: 1.5rem; line-height: 1.5;\"><br></b><br><b style=\"font-size: 1.5rem; line-height: 1.5;\"><br></b><br><b style=\"font-size: 1.5rem; line-height: 1.5;\">LA ABONDAD DE LOS APALACHES EN LOS ANDES</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nuestro tocino ahumado artesanalmente, se hace de la manera antigua y con la tradición de los mejores lugares en donde se han especializado en esta forma de ahumar, que es en los montes de los Apalaches en los Estados Unidos de Norte América.</span><br><br>La materia prima se toma de las pansas de los cerdos nativos, la misma que se las corta, luego se las seca por varios días, luego se las cura con la supervisión de David, luego se las añeja y se ahúma al calor de madera de manzanos. Para completar el proceso, se toman unos 14 días, el mismo que le da un sabor tan especial de los montes Apalaches, acá en el corazón de Los Andes.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "8",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/8910e486feb747d5f7de293c40411ae9-2000x1509-92.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "TOCINO AHUMADO",
+                "showText": true,
+                "text": "Carolina Smokehouse elabora sus productos de forma artesanal con ingredientes 100% naturales, manteniendo altos niveles de calidad.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-8866-2000x1509-78.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "SALCHICHAS DE CARNE",
+                "showText": true,
+                "text": "La calidad de sus ingredientes permite resaltar los sabores de sus productos logrando que sean más apetecibles.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/raw-vegan-fermented-cabbage-sauerkraut-2000x1334-89.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "COL &nbsp;AGRIO<br>",
+                "showText": true,
+                "text": "Conservas al estilo tradicional que capturan los sabores.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bacon-sliced-2000x1500-16.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "TOCINO AHUMADO",
+                "showText": true,
+                "text": "El secreto de sus sabores radica en la constancia, dedicación y persistencia por lograr la excelencia.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/italian-prosciutto-2-2000x1331-54.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "PROSCIUTTO",
+                "showText": true,
+                "text": "Los  sentidos de la vista, del gusto y del olfato son placenteramente excitados por la combinación de colores, sabores y olores que son el resultado de la selección de buenos ingredientes 100% naturales.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-6",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#f9d1d1",
+            "showMeta": true
+          },
+          "title": "Historia",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f9d1d1"
+          },
+          "text": "<p>En Cuenca se encuentran tomates grandes y lechugas frescas durante todo el año. Igual que el pan, pero no así un buen tocino – Tocino para preparar unos buenos sanduches, tocino para servirnos en nuestros desayunos, o para dar un mejor sabor a nuestra comida.</p><p><br></p><p>Nosotros, al no poder conseguir un buen tocino en el mercado, pensamos en qué hacer? Pues, decidimos preparar nuestro propio tocino y salchicha. Es así como nació Carolina Smokehouse. Los resultados, un tocino impresionantemente delicioso, y una salchicha en su justo punto. De estos resultados fue que nos motivó ofrecer nuestro producto al público.</p><p><br></p><p>Si hay una cosa en el planeta que es realmente mejor que tocino es tocino artesanal. Sandy y David Kraft son para expatriados jubilados sin pretensiones que viven en Cueca. Ecuador alto en la Cordillera de los Andes. Si usted es del Sur, usted entenderá esto - son \"campesinos\" y no hacen ningún hueso sobre él. Por esta razón y la falta de algo parecido a tocino real en Ecuador, Sandy y David decidieron hacer su propia y Carolina Smokehouse nació.</p><p><br></p><p>Avance rápido un par de años y Carolina tocino Smokehouse es, de lejos, el mejor tocino artesanal en el planeta. Sé que es una declaración audaz. Pero cuando haces las cosas tan meticulosamente como lo hacen los Kraft, realmente no hay ninguna expectativa de nada más que lo mejor. No sólo hacen el mejor tocino, sino que han ampliado su repertorio para incluir la salchicha, las costillas de cerdo tiradas y los varios otros tipos de productos relacionados con el cerdo. Todo lo producido se produce naturalmente y con amor. Utilizan sólo ingredientes de origen local hasta su carniceria (carnicero) que es su mejor amigo (conocen a sus cerdos).</p><p><br></p><p>El éxito de Carolina Smokehouse es la combinación de grandes productos, el trabajo duro y nunca el establecimiento de nada, pero el mejor. Pero hay algo más debajo de todo esto que realmente hace que el Kraft y Carolina Smokehouse diferentes - corazón! Sandy y David `s corazones son más grandes que todo el estado de Carolina del Norte y es realmente lo que se trata.</p><p><br></p><p>Hay un vers en la Biblia que dice algo como \"Dar a un hombre un pez y él come por un día. Enséñale a pescar y comerá toda la vida\". Los Kraft han desarrollado un concepto muy único que, si es adoptado por otros empresarios exitosos, podría cambiar el mundo. Lo están pagando adelante pasando Carolina Smokehouse a un ecuatoriano local para que él pueda mejorar su vida y la de su familia. Mientras Ecuador es una nación en desarrollo, el salario mensual promedio aquí es menos de $ 400 por mes. Es muy difícil para el arroz salir de la pobreza en cualquier parte del mundo, pero aquí hay muy pocas oportunidades. Sandy y David quieren literalmente pagar adelante con tocino. Entre Felix Salinas y su familia. Felix es un camarero en el popular restaurante local y su esposa. Esperanza, se encarga de la casa y la familia. Juntos tienen dos hijos, Jonathon y Justin y también en su familia extendida tienen una hija. Yerno y recién nacido.</p><p><br></p><p>El hombre que han decidido pasar su negocio no pudo ser más digno. Félix es bien conocido aquí en Cuenca porque espera mesas en uno de los restaurantes más populares y pasa la mayor parte de su tiempo trabajando para atender a su familia. Esto significa trabajar varios trabajos, teniendo trabajos impares cuando está disponible y todavía encontrar el tiempo para aprender el negocio del tocino como el aprendiz de Sandy. Pasan innumerables horas trabajando juntos en cada minuto de reserva del horario agitado de Felix. Él está totalmente comprometido a aprender todo sobre la elaboración de tocino y todos los otros productos que produce Carolina Smokehouse y se está sacrificando para obtener ese conocimiento. Esto no es sólo Félix aunque - es realmente un asunto de familia.</p><p><br></p><p>En los Estados Unidos una vez al año es \"Lleva a tus hijos al día de trabajo\". Aquí en el humo de Carolina es cada día. Nadie es demasiado joven para aprender y disfrutar del proceso de aprendizaje. Tener un negocio rentable y sostenible permitirá a Félix para convertirse en un propietario en lugar de un trabajador, así como proporcionar un legado para sus hijos y sus familias. Felix ha dedicado cada momento posible a aprender cada faceta de Carolina Smokehouse mientras se prepara para dar ese salto de trabajar para un jefe a ser el dueño y jefe mismo. Esperanza, su esposa, viene todos los días a aprender los entresijos de todos los productos.</p><p><br></p><p>Un gran paso es entender y conocer las tendencias del mercado con el fin de comprar las materias primas necesarias para garantizar un suministro constante de producto. De reunirse con su carnicero y elegir el mejor cerdo para comprar especias en cantidad es un continuo viaje adelante trabajando con restaurantes y clientes al por menor, Felix, Esperanza y toda la familia han abrazado esta nueva oportunidad y están decididos a convertirlo en su humo de Carolina Administrado y administrado por su familia. &nbsp;</p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-m",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/watch?v=lKKkSbMvGPA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "SPAN": {
+              "color": "#b8312f",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "STRONG": {
+              "color": "#b8312f",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "UL": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts2-1d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00037-2000x1500-26.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "Calle Larga 9-38 y Benigno Malo\nCuenca, Ecuador",
+              "placeId": "EitDYWxsZSBMYXJnYSAmIEJlbmlnbm8gTWFsbywgQ3VlbmNhLCBFY3VhZG9y",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Direccion</strong><br>Calle Larga 9-38 y Benigno Malo<br>Cuenca, Ecuador<br><br><br>\n<strong>Contactos</strong><br>Email: tocinoec@gmail.com<br>Phone: 0979070470<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Ubicacion</b></span></font><br><ul>Ubicado dentro de Sunrise Cafe Carolina Smokehouse ofrece una amplia variedad de productos artesanales y vinos de origen europeos, visitenos, nos complace atenderlos.</ul><ul><br></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/raw2-1-2000x664-81.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Carolina Smokehouse"
+        }
+      ]
+    },
+    "Vinos.html": {
+      "settings": {
+        "title": "Vinos",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vinos-2000x692-42-2000x1125-92.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "VINOS DE PORTUGAL",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-r",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/qs6rLfvwz_Y?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Casa De Coelheira",
+          "text": "Fundada en la región Ribatejo en el primer tercio del siglo XX, cuenta con 64 hectáreas de viñedo situadas en las orillas del rio tejo, impulsadas por la pasión familiar de 3 generaciones, dando como resultado unos vinos portugueses excepcionales.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Vinos.html#features1-u\" data-toolbar=\"-mbrBtnMove\">NUESTROS VINOS</a> "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-o",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imagen1-153x128-75.png",
+              "height": 128,
+              "alt": "Carolina Smokehouse",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactos.html\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-u",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f28281",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p10-600x600-24.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "TERRAÇOS DO TEJO",
+          "subtitle1": "",
+          "caption1": "<br>Es un vino moderno, hecho en un estilo internacional fácil de gustar. El fruto es perfecto, intenso, con notas de frutas rojas y especias. Estructura en armonía con taninos suaves e intensas notas de fruta roja. Un conjunto muy atractivo. La buena acidez trasmite frescura y elegancia sin fatigar los sentidos.<br>Ideal para acompañar con platos de carne o pasta.<br><br>Variedad: Aragonês / Syrah / Castelão<br><br>Tª Recomendada: 16-18º<br><br>Grado alcohólico: 13,7%<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p12-600x600-89.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "TINTO",
+          "subtitle2": "",
+          "caption2": "<br><span style=\"font-size: 1rem; line-height: 1.5;\">La Touriga Nacional aporta los aromas, la Touriga Franca la garra y exuberancia, la Alicante Bouschet complementa con toda su estructura e intensidad, mostrando una mezcla de terruño y modernidad. Es muy elegante y suave, con notas balsámicas y de frutas rojas.</span><br>Ideal para acompañar con cualquier queso o plato de carne rojas.<br><br>Variedad: Alicante Bouchet / Touriga Nacional / Touriga Franca<br><br>Tª Recomendada: 17º<br><br>Grado alcohólico: 13,9%<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p11-600x600-18.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "ROSADO",
+          "subtitle3": "",
+          "caption3": "<br>Cierra los ojos y siente los aromas, en primer lugar fresa, a continuación cereza y al final una mermelada de moras silvestres con algunas notas florales muy frescas, muy intenso y concentrado, trae todas las notas de las variedades tintas, permitiendo una plenitud de aromas más allá de un simple rosado tradicional. Ideal para acompañar con entrantes y platos de pasta, ensalada, pescado o marisco.<br><br>Variedad: Syrah / Touriga Nacional<br><br>Tª Recomendada: 8-10º<br>Grado alcohólico: 13,7%<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p13-600x600-93.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "TINTO RESERVA",
+          "subtitle4": "",
+          "caption4": "<br>Este vino tinto tiene más intensidad, más profundidad y persistencia. Creado utilizando sólo los mejores viñedos de \"Casal da Coelheira\". Esta Reserva es un vino con cuerpo, un estilo afrutado, donde la frescura transmitida por la acidez está en equilibrio con taninos sólidos. Ideal para acompañar con cualquier queso o plato de carne rojas.<br><br>Variedad: Touriga Nacional / Cabernet Sauvignon / Touriga Franca<br><br>Tª Recomendada: 17º<br><br>Grado alcohólico: 13,9%<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-v",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/WMGYVHuVQQg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Adega De Almeirim",
+          "text": "Fundada en la región Ribatejo en 1958, cuenta con 2.000 hectáreas de viñedo, produciendo alrrededor de 25 millones de litros de vino al Año y con capacidad para embotellar 9.000 botellas por hora, es la mayor bodega del Portugal actualmente.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"Vinos.html#features1-t\" data-toolbar=\"-mbrBtnMove\">NUESTROS VINOS</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7e9b9f"
+            }
+          },
+          "_anchor": "features1-t",
+          "_params": {
+            "columnsColor": "#7e9b9f",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p5-600x600-69.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "LEZÍRIA TINTO",
+          "subtitle1": "",
+          "caption1": "<br>Vino de color brillante y aromas a frutos rojos, maduro en boca. Cuenta con una entrada suave, con taninos bien armonizados. Con un final agradable de persistencia media.<br>Ideal para acompañar con cualquier plato, especialmente de carne.<br><br>Variedad: Castas Regionales<br><br>Tª Recomendada: 16º<br><br>Grado alcohólico: 12,5%<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p7-600x600-92.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "LEZÍRIA BLANCO SEMI-SECO",
+          "subtitle2": "",
+          "caption2": "<br>Es un vino con carácter joven , con un aroma afrutado vivo y acentuado, en boca es fresco y acidula dando como resultado un vino muy bien equilibrado.<br>Perfecto para acompañar con cualquier plato, especialmente de pescado.<br><br>Variedad: Castas Regionales<br><br>Tª Recomendada: 5-7º<br><br>Grado alcohólico: 10,5%<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p6-600x600-74.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "LEZÍRIA BLANCO",
+          "subtitle3": "",
+          "caption3": "<br>Vino con un color cítrico y aroma afrutado con matices de frutas tropicales. En boca es suave y aterciopelado, con un final persistente y fresco.<br>Perfecto para acompañar con cualquier plato, especialmente de pescado.<br><br>Variedad: Castas Regionales<br><br>Tª Recomendada: 8º<br><br>Grado alcohólico: 12%<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p8-600x600-61.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p9-600x600-70.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-w",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/leziria-rose-big-600x600-41.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Leziria Semi Seco Rosa",
+          "subtitle1": "",
+          "caption1": "<br>Es un hermoso vino de color rosa, con aromas de fruta roja (cerezas y fresas) y algunos florales. En boca tiene una acidez vivaz y un final largo con buen equilibrio. Debe ser servido a una temperatura de 8º-10º C.<br><br>Alcohol: 10,5% vol.<br>Acidez total: 5,9 g / l<br>Azúcar residual: 10 g / l<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p9-600x600-39.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "PLANÍCIE BLANCO",
+          "subtitle2": "",
+          "caption2": "PLANÍCIE BLANCO<br>La fermentación a temperaturas muy bajas originan un vino donde la suavidad del paladar se combina con un perfume acentuado. Con aroma de frutas tropicales, fresco en boca y con buena acidez.<br>Perfecto para acompañar con platos de mariscos o pescados asados.<br><br>Variedad: Fernão Pires<br><br>Tª Recomendada: 8º<br><br>Grado alcohólico: 12%<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p8-600x600-52.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "PLANÍCIE TINTO",
+          "subtitle3": "",
+          "caption3": "<br>Es un vino de color granate con aromas de frutos rojos y un ligero avainillado de madera de calidad. En boca es redondo, con taninos suaves y elegantes, poseyendo un excelente final.<br>Ideal para acompañar con platos orientales, aves de caza o carnes asadas.<br><br>Variedad: Castelão / Aragonez<br><br>Tª Recomendada: 16-18º<br><br>Grado alcohólico: 13%<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-x",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/201504131735460-2000x1662-4.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Vini Verde",
+          "text": "Viniverde - Promoción y Comercio de Vinhos Verdes, SA es una sociedad cuyos accionistas son varias empresas de la región del Vinho Verde, entre las que destaca la Adega Cooperativa de Ponte da Barca por su tamaño, por su larga historia de casi 50 años y por su notoriedad , Donde no sólo la sede administrativa de Viniverde como su producción.<br><br>El Viniverde fue incorporado con el objetivo de producir, promover y comercializar los vinos y derivados más populares de sus accionistas y también de sus propias marcas.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Vinos.html#features1-y\" data-toolbar=\"-mbrBtnMove\">NUESTROS VINOS</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-y",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#90a878",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/estreia-loureiro-500x500-600x600-98-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "ESTREIA LOUREIRO",
+          "subtitle1": "",
+          "caption1": "<br>Con un color citrico obtenido a partir de una rigurosa seleción de la mejor variedad blanca de la região. Con aroma de frutas citricos y florales, persistente en boca,.<br>Ideal como aperitivo o acompañado de entrantes variados, siendo especialmente recomendado para acompañar con platos de mariscos o pescados y carnes blancas.<br><br>Variedad: Loureiro<br><br>Tª Recomendada: 8-10º<br><br>Grado alcohólico: 11%<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/estreia-vinho-verde-branco-2012-600x685-72-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "ESTREIA BRANCO",
+          "subtitle2": "",
+          "caption2": "<br>Un vino que se ajusta a cualquier situación, hecho a partir de diferentes variedades de uvas blancas de la região, con un color citrico, aromatico, suave y armonioso, con una ligera presencia de dióxido de carbono, es joven y suave, para saborear con alegria.<br>Es excelente sin acompañamiento o como aperitivo, con platos ligeros de la cocina oriental a base de verduras y carnes blancas o ensaladas.<br><br>Variedad: Loureiro / Trajadura / Arinto<br><br>Tª Recomendada: 6-8º<br><br>Grado alcohólico: 10,5%<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-estreiarose-600x600-82-1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "ESTREIA ROSÉ",
+          "subtitle3": "",
+          "caption3": "<br>El resultado de diferentes variedades de uva de la región, vinificadas por el método clásico de los vinos blancos, de color rosa, con aromas de frutos rojos, suaves y armoniosos, con una ligera presencia de dióxido de carbono, joven, ligero y muy versátil, ideal para celebraciones emotivas.<br>Es versátil, se puede consumir sin acompañamiento o con ensaladas, cocina oriental e italiana y postres.<br><br>Variedad: Vinhão / Borraçal / Espadeiro<br><br>Tª Recomendada: 6-8º<br><br>Grado alcohólico: 10%<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/18-2000x1125-23.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "VINOS DE ESPAÑA",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-16",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/RqHIoNQTl-Q?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Bodegas Patrocinio",
+          "text": "Bodegas Patrocinio es el motor de Uruñuela, un pueblo de 967 habitantes situado en un enclave único en el corazón de la Rioja Alta. En el año 1985, 200 viticultores con pequeños viñedos en Uruñuela decidimos unir fuerzas para elaborar y comercializar nuestros propios vinos. Nacía entonces una sociedad cooperativa ejemplar: Bodegas Patrocinio.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Vinos.html#features1-17\" data-toolbar=\"-mbrBtnMove\">NUESTROS VINOS</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#300411"
+            }
+          },
+          "_anchor": "features1-17",
+          "_params": {
+            "columnsColor": "#300411",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p1-600x600-15.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "GARNACHA",
+          "subtitle1": "",
+          "caption1": "<br>Se trata de un vino de intenso color púrpura y capa alta. En nariz muestra toda su frescura desarrollando un conjunto aromático marcado por la presencia de fruta en confitura, notas de tarta de fresa y recuerdos de frambuesa. En boca de manifiesta vivo, freco y frutal, con taninos maduros que aportan cuerpo y estructura en su elegante final.<br><br>Variedad: Garnacha<br><br>Tª Recomendada: 15-16º<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p2-600x600-86.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "SEMI-CRIANZA",
+          "subtitle2": "",
+          "caption2": "<br>El vino resultante es un vino de color rojo picota, elegante y complejo, con aromas a frutos del bosque y un bouquet floral muy bien integrado, con matices de cedro y roble tostado. Es vibrante y expresivo, de cuerpo medio, con toques de vainilla dulce, propios de la crianza en roble. Encontramos cereza, grosella, coco y frambuesas frescas, que capturan el paladar conduciéndolo a un largo y persistente final.<br><br>Variedad: Tempranillo / Graciano<br><br>Tª Recomendada: 16-18º<br>.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p3-600x600-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "TEMPRANILLO CRIANZA",
+          "subtitle3": "",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">El resultado final es un vino elegante y moderno a la vez, de color rojo granate de capa media, con aromas expresivos y bien definidos, donde el toque de frutas frescas-maduras y maderas finas bien integradas, se hace notar.</span><br>Tiene una entrada amable y un final que recuerda a especias dulces (canela, clavo), encontramos una agradable tanicidad, muy redondo en boca y con un gran equilibrio entre la madera y la fruta madura.<br><br>Variedad: Tempranillo<br><br>Tª Recomendada: 17-19º<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p4-600x600-92.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "TEMPRANILLO RESERVA",
+          "subtitle4": "",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Como resultado final un vino de capa alta, rojo cereza madura, granate intenso, con una nariz misteriosa, hay notas de especias dulces y hierbas aromáticas, tomillo, romero... todo ello, sobre un fondo a toffee, chocolates y cacaos propios de una noble crianza.</span><br>En boca resulta jugoso y persistente, amplio, con taninos vivos, y fruta madura de calidad y por supuesto, mucha vida por delante.<br><br>Variedad: Tempranillo<br><br>Tª Recomendada: 17-19º<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#b8312f"
+            },
+            "STRONG": {
+              "color": "#b8312f"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00026-2000x1500-33.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Direccion</b></span></font><br>Sunrise Cafe<br>Calle Larga 9-38 y Benigno Malo<br>Cuenca, Ecuador<br><br><br>\n<strong>Contactos</strong><br>Email: tocinoec@gmail.com<br>Phone: 0979070470<br>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "hector_jose_valladares_m@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensage"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/raw2-1-2000x664-81.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Carolina Smokehouse"
+        }
+      ]
+    },
+    "contactos.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-15",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cochinito-volador4.gif",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-12",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imagen1-153x128-75.png",
+              "height": 128,
+              "alt": "Carolina Smokehouse",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactos.html\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-1f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "youtube": "",
+            "facebook": "pricklypearcuenca",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "10",
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          }
+        }
+      ]
+    },
+    "casaartesanal.html": {
+      "settings": {
+        "title": "Casa Aratesanal"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-18",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imagen1-153x128-75.png",
+              "height": 128,
+              "alt": "Carolina Smokehouse",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactos.html\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "SPAN": {
+              "color": "#b8312f",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "STRONG": {
+              "color": "#b8312f",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "UL": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts2-19",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00036-2000x1500-80.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "Calle Larga 9-38 y Benigno Malo, Cuenca Ecuador.",
+              "placeId": "EitDYWxsZSBMYXJnYSAmIEJlbmlnbm8gTWFsbywgQ3VlbmNhLCBFY3VhZG9y",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Direccion</strong><br>Calle Larga 9-38 y Benigno Malo<br>Cuenca, Ecuador<br><br><br>\n<strong>Contactos</strong><br>Email: tocinoec@gmail.com<br>Phone: 0979070470<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Ubicacion</b></span></font><br><ul>Ubicado dentro de Sunrise Cafe Carolina Smokehouse ofrece una amplia variedad de productos artesanales y vinos de origen europeos, visitenos, nos complace atenderlos.</ul><ul><br></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/raw2-1-2000x664-81.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Carolina Smokehouse"
+        }
+      ]
+    },
+    "carolinasmokehouse.html": {
+      "settings": {
+        "title": "Carolina Smokehouse"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imagen1-153x128-75.png",
+              "height": 128,
+              "alt": "Carolina Smokehouse",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactos.html\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgColor": "#f28281",
+            "showMeta": false
+          },
+          "title": "PRODUCTOS",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bigstock-prosciutto-ham-11793416-2000x1324-68.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CARNES",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#f28281"
+            }
+          },
+          "_anchor": "features1-f",
+          "_params": {
+            "columnsColor": "#f28281",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/182025119-600x398-78.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Tocino Ahumado",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Tocino Ahumado",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prosciutto2-600x398-35.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Prosciutto",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/salchichas4-600x398-97.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Salchicha",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/salchichas3-600x398-72.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Salchicha Picante",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/raw-vegan-fermented-cabbage-sauerkraut-2000x1334-89-2000x1334-85.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "CONSERVAS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-d",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f28281",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/col-3-600x398-63.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Col &nbsp;Agrio",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/salsa-de-tomate-2-600x398-98.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Salsa de Tomate",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/salsa-de-tomate-1-600x398-20.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Salsa Picante",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/col-4-600x398-92.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Mermelada",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-h",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/brownie-2000x1336-82.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "MEZCLAS DE HARINAS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#c0a375"
+            }
+          },
+          "_anchor": "features1-g",
+          "_params": {
+            "columnsColor": "#c0a375",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brownies1-600x398-18.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Brownies",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coffeecake1-600x398-95.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Coffe Cake",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pancake3-600x398-21.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Pancake",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harina-de-maiz1-600x398-72.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Corn flower",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#b8312f"
+            },
+            "STRONG": {
+              "color": "#b8312f"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00026-2000x1500-33.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Direccion</b></span></font><br>Sunrise Cafe<br>Calle Larga 9-38 y Benigno Malo<br>Cuenca, Ecuador<br><br><br>\n<strong>Contactos</strong><br>Email: tocinoec@gmail.com<br>Phone: 0979070470<br>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "hector_jose_valladares_m@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        }
+      ]
+    }
+  }
+}
