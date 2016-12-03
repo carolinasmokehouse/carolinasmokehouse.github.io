@@ -654,6 +654,12 @@ h6,
 #contacts4-1b P {
   color: #ffffff;
 }
+#header1-15 .mbr-section-title {
+  color: #b8312f;
+}
+#header1-15 .mbr-section-lead {
+  color: #f28281;
+}
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
