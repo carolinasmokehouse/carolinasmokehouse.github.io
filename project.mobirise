@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Vinos.html",
+    "currentPage": "index.html",
     "name": "carolinasmokehouse",
     "theme": {
       "name": "mobirise3",
@@ -1435,6 +1435,14 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts4-1r",
           "_params": {
             "paddingTop": 3,
@@ -1478,15 +1486,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "_styles": {
-            "STRONG": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         },
         {
           "_tags": [
@@ -1868,8 +1868,8 @@
             }
           },
           "title1": "Tocino Ahumado",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "",
+          "caption1": "Nuestro tocino ahumado es el producto de una rigurosa selección de ingredientes 100% naturales, ahumado al estilo tradicional de los Apalaches americanos con madera de manzano. Llevado a ustedes en empaques de 1 libra en dos presentaciones, Corte regular y corte grueso.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1884,8 +1884,8 @@
             }
           },
           "title2": "Prosciutto",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "",
+          "caption2": "Es un jamón de corte fino, curado mediante el proceso del ahumado con madero de manzano, elaborado artesanalmente con el lomo de cerdo en el que los sabores de los ingredientes 100% naturales permiten realzar el sabor de esta carne. Presentación en empaques de 150gr.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1900,8 +1900,8 @@
             }
           },
           "title3": "Salchicha",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "",
+          "caption3": "Carne de cerdo seleccionada de la mejor calidad junto con ingredientes 100% naturales crean una salchicha exquisita para toda ocasión, presentada en forma de tortillas de carne en paquetes de 16 unidades, son una alternativa práctica para cocinar.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1916,8 +1916,8 @@
             }
           },
           "title4": "Salchicha Picante",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "",
+          "caption4": "Al igual que las salchichas normales hechas con carne de cerdo seleccionada de la mejor calidad junto con ingredientes 100% naturales las salchichas picantes poseen ese toque de species que genera una sensación intensa de sabores en el paladar su presentación viene en paquetes de 1 libra ideal para ser utilizada como base en salsas para pastas.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -2071,7 +2071,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/col-4-600x398-92.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mermelada-casera-500x331-600x397-46.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2190,9 +2190,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Brownies",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "Brownies Mix",
+          "subtitle1": "",
+          "caption1": "Mezcla para preparar brownies al estilo americano con ingredientes 100% naturales, nunca hacer brownies fue tan fácil, solo usas la mezcla de Carolina Smokehous, sigues la receta y listo a disfrutar de unos deliciosos brownies.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -2206,9 +2206,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Coffe Cake",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Coffe Cake Mix",
+          "subtitle2": "",
+          "caption2": "A la hora de ofrecer un café, nada mejor que acompañarlo con una torota preparada con la Mezcla para preparar Coffe Cake al estilo americano con ingredientes 100% naturales de Carolina Smokehouse, solo usas la mezcla, sigues la receta y listo a disfrutar de una deliciosa Coffe Cake.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -2222,9 +2222,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Pancake",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "Pancake Mix",
+          "subtitle3": "",
+          "caption3": "Desayuna con unas exquisitas Pancakes al estilo de Carolina Smokehouse, usa nuestra Pancake Mix, agrega leche y huevos según nuestra receta y disfruta de unas Pancakes perfectas. No olvides agregarles un poco de miel o mermelada que también encontraras en Carolina Smokehouse.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
