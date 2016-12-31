@@ -660,10 +660,6 @@ h6,
 #contacts4-1r P {
   color: #ffffff;
 }
-
-
-
-
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -725,23 +721,8 @@ h6,
 #menu-18 .close-icon::after {
   background-color: #ffffff;
 }
-#contacts2-19 SPAN {
-  color: #b8312f;
-  text-align: left;
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts2-19 STRONG {
-  color: #b8312f;
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts2-19 UL {
-  text-align: left;
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts2-19 P {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+#header1-1t .mbr-section-lead {
+  color: #475577;
 }
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "carolinasmokehouse.html",
+    "currentPage": "casaartesanal.html",
     "name": "carolinasmokehouse",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.5",
-    "uniqCompNum": 65,
+    "uniqCompNum": 72,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"true\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"true\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"casaartesanal.html\" aria-expanded=\"false\">Casa Artesanal</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -651,7 +651,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"true\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"casaartesanal.html\" aria-expanded=\"false\">Casa Artesanal</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1598,58 +1598,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "SPAN": {
-              "color": "#b8312f",
-              "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "STRONG": {
-              "color": "#b8312f",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "UL": {
-              "text-align": "left",
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_anchor": "contacts2-19",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc00036-2000x1500-80.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000000",
-            "googleMap": {
-              "address": "Calle Larga 9-38 y Benigno Malo, Cuenca Ecuador.",
-              "placeId": "EitDYWxsZSBMYXJnYSAmIEJlbmlnbm8gTWFsbywgQ3VlbmNhLCBFY3VhZG9y",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Direccion</strong><br>Calle Larga 9-38 y Benigno Malo<br>Cuenca, Ecuador<br><br><br>\n<strong>Contactos</strong><br>Email: tocinoec@gmail.com<br>&nbsp; &nbsp;dosamigoscuenca@gmail.com<br>&nbsp; &nbsp;casaartesanales@gmail.com<br>Phone: 0979070470<br>&nbsp;",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Ubicacion</b></span></font><br><ul>Ubicado dentro de Sunrise Cafe Carolina Smokehouse ofrece una amplia variedad de productos artesanales y vinos de origen europeos, visitenos, nos complace atenderlos.</ul><ul><br></ul>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"true\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"casaartesanal.html\" aria-expanded=\"false\">Casa Artesanal</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1670,6 +1619,252 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Carolina Smokehouse"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "header1-1t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/casa-artesanal-2000x1136-78.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "",
+          "text": "<br><br><br><br><br><br>DONDE PODRAS ENCONTRAR LOS MAS VARIADOS PRODUCTOS ELABORADOS DE FORMA ARTESANAL",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1y",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffcece",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00063-1400x1050-19.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BASIC NATURE",
+          "text": "Nos &nbsp;especializamos en Productos Naturales para el cuidado de la Piel con la utilizacion d frutas, plantas, hierbas y aceites esenciales obtenidos en las montañas de los Andes.<br><br>e-mail: basicnatureproducts@gmail.com<br>webpage: www.basicnatureproducts.com",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.basicnatureproducts.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1w",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eabdf9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00057-1400x1050-51.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Natural Flavors",
+          "text": "Mermeladas elaboradas de forma artesanal con ingredientes 100% naturales y sin preservativos ni concervantes. disfruta de nuestros variados sabores de fresa, mora,durazno, piña, naranja, tomate de arbol y mas.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1x",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#d4d3a5",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00091-1400x1050-70.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Tracy´s Treasures",
+          "text": "una amplia varidad de especies y condimentos seleccionados de primera calidad 100% naturales que haran resaltar el sabor en tus preparaciones.<br><br>e-mail: tracyprose@gmail.com<br>cel: 0998179527<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1z",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00086-1400x1050-27.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Café Arabigo<br>León Toledo",
+          "text": "Autentico cafe de Vilcabamba Puro sabora a Café. Tostado en grano y Molido.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -1763,7 +1958,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"true\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"casaartesanal.html\" aria-expanded=\"false\">Casa Artesanal</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2003,7 +2198,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f28281",
+            "bgColor": "#41a85f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2012,7 +2207,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -2032,12 +2227,12 @@
             }
           },
           "title1": "Col &nbsp;Agrio",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "",
+          "caption1": "El col Agrio de Carolina Smokehouse que esta elaborado de forma artesanal con ingredientes 100% naturales es un exelente acompañante para sadguches, perros calientes y mas.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/salsa-de-tomate-2-600x398-98.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zingy-salsa-recipe-600x432-75.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2048,12 +2243,12 @@
             }
           },
           "title2": "Salsa de Tomate",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "",
+          "caption2": "El aroma, el sabor y el color de la salsa de tomate preparada con ingredientes 100% naturales hacen de la salsa de tomates de Carolina Smokehouse una buena opcion para aderezar tus pastas.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/salsa-de-tomate-1-600x398-20.jpg",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-42-600x450-34.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2064,8 +2259,8 @@
             }
           },
           "title3": "Salsa Picante",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "",
+          "caption3": "la chispa de picante que posee la salsa picante de Carolina Smokehouse deja en tu boca la sensacion del jolapeño al mas puro estilo mexicano.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -2237,7 +2432,7 @@
             }
           },
           "title4": "Corn flower",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "",
           "caption4": "Usa en tus recetas, la harina de maiz de Carolina Smokehouse, harina 100% de granos de maiz,",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -2357,7 +2552,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"true\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"casaartesanal.html\" aria-expanded=\"false\">Casa Artesanal</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2510,7 +2705,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"false\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"noticiaskraftwineservice.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NOTICIAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiascarolinasmokehouse.html\">Carolina Smokehouse<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"noticiaskraftwineservice.html\">Kraft Wine Service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-m\">VIDEO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"productos.html#features1-b\" aria-expanded=\"true\">PRODUCTOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"productos.html#msg-box8-a\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Carolina Smokehouse</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-a\">Carnes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-c\">Conservas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carolinasmokehouse.html#msg-box8-h\">Harinas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Vinos.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Vinos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-r\">Casa De Coelheira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-v\">Adega De Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-x\">Vini Verde</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vinos.html#header4-16\">Bodegas Patrocinio</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"casaartesanal.html\" aria-expanded=\"false\">Casa Artesanal</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1d\" aria-expanded=\"false\">UBICANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1s\" aria-expanded=\"false\">CONTACTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
